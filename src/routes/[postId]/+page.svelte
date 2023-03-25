@@ -1,64 +1,22 @@
 <script lang="ts">
-	import artistComments from '$lib/data/artistComments.json';
+	import { setContext } from 'svelte';
+	import type { PageData } from './$types';
+	import { writable } from 'svelte/store';
+
 	import SpeechBubble from '$lib/SpeechBubble.svelte';
 
-	function flattenArtistComments(comments: (typeof artistComments)['data']) {
-		const flattened: Article[] = [];
+	export let data: PageData;
 
-		comments.forEach((comment) => {
-			const {
-				commentId: id,
-				body,
-				author: { profileName, profileImageUrl },
-				createdAt
-			} = comment;
-			const parent = comment.parent;
-			const parentId = (
-				parent.type === 'POST' ? parent.data.postId : parent.data.commentId
-			) as string;
-
-			const article = { id, body, createdAt, profileName, profileImageUrl, parentId, children: [] };
-			const articleIdx = flattened.findIndex((article) => article.id === id);
-			if (articleIdx > -1) {
-				flattened[articleIdx] = article;
-			} else {
-				flattened.push(article);
-			}
-
-			const parentArticle = flattened.find((article) => article.id === parentId);
-			if (!parentArticle) {
-				flattened.push({
-					id: parentId,
-					body: parent.data.body,
-					profileName: parent.data.author.profileName,
-					profileImageUrl: parent.data.author.profileImageUrl,
-					children: []
-				});
-			}
-		});
-
-		for (const id in flattened) {
-			const article = flattened[id];
-
-			if (article.parentId) {
-				const parentIdx = flattened.findIndex(
-					(parentArticle) => parentArticle.id === article.parentId
-				);
-				if (parentIdx > -1) {
-					flattened[parentIdx].children.push(article);
-					flattened[parentIdx].children.sort((a, b) => {
-						if (typeof a.createdAt === 'undefined' || typeof b.createdAt === 'undefined') return 0;
-						return a.createdAt - b.createdAt;
-					});
-				}
-			}
-		}
-
-		return flattened;
-	}
-
-	const articles = flattenArtistComments(artistComments.data);
+	const articles = data.artistComments;
 	const root = articles.find((article) => !article.parentId);
+
+	const comments = articles.filter((article) => !!article.createdAt) as Required<Article>[];
+	comments.sort((a, b) => {
+		return a.createdAt - b.createdAt;
+	});
+
+	const animateId = writable(comments[0].id);
+	setContext('animateId', animateId);
 </script>
 
 <section>
@@ -73,8 +31,8 @@
 
 		<hr />
 
-		{#each root.children as child}
-			<SpeechBubble comment={child} author={root.profileName} />
+		{#each root.children as child, idx}
+			<SpeechBubble comment={child} author={root.profileName} next={root.children[idx + 1]?.id} />
 		{/each}
 	{/if}
 </section>
