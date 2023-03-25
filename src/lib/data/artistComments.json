@@ -1,0 +1,734 @@
+{
+	"data": [
+		{
+			"commentId": "0-225118601",
+			"body": "부석순 파이팅 해야지.",
+			"createdAt": 1675409587893,
+			"emotionCount": 35670,
+			"commentCount": 1591,
+			"availableActions": ["WRITE_EMOTION", "READ_COMMENT", "WRITE_COMMENT"],
+			"writtenIn": "ko",
+			"parent": {
+				"type": "POST",
+				"data": {
+					"body": "hey 위버스 리더 응답하라 오바",
+					"postId": "3-112571891",
+					"postType": "NORMAL",
+					"punishStatuses": [],
+					"plainBody": "hey 위버스 리더 응답하라 오바",
+					"author": {
+						"memberId": "38259d6084565f008c7ebca19db8f98e",
+						"profileName": "호시",
+						"profileImageUrl": "https://weverse-phinf.pstatic.net/MjAyMzAxMzBfMjI0/MDAxNjc1MDYwODQwMDE2.021kw8jGnWSDHeHOODdAtZEidbselX_ZYMBs3Vu9LEsg.OVmEHiP9LecqGDIoOILJuUb63ulgO1BBthpPp8BQ5sIg.JPEG/16a06b08-54f7-4dc7-be2a-6673cbc1ffe6.jpeg",
+						"profileType": "ARTIST",
+						"hasOfficialMark": true
+					}
+				}
+			},
+			"author": {
+				"memberId": "8154c97c850167455f477945794e837f",
+				"communityId": 4,
+				"joined": true,
+				"profileName": "원우",
+				"profileImageUrl": "https://weverse-phinf.pstatic.net/MjAyMjA3MTFfMjU0/MDAxNjU3NTAyNDY1NDQw.EXuLjfkSwF3CMfAgI4XK2HMQmTFGJRCd1V34YPWP-jcg.G7MserHFrMit4Dd34G6386xMNH2JX4zDXSON4EBmdeYg.PNG/ed44c6dc5d22476db6bebb43ba90a680147.png",
+				"memberJoinStatus": "JOIN_COMMUNITY",
+				"profileType": "ARTIST",
+				"artistOfficialProfile": {
+					"officialImageUrl": "https://weverse-phinf.pstatic.net/MjAyMjA3MTFfMjMz/MDAxNjU3NTAyNDAxMTIz.aFz-YFSxvVLKzWPxWnHquotJRE7jQrt_d1SJI4-8HUQg.lO131Do43_DyF6dtMGop8QNmZUwJxVaf1Tv-xlwkQCAg.PNG/317ed5f07114416b9c8cd69921efb902829.png",
+					"officialName": "원우",
+					"birthday": { "date": 837561600000, "timezone": "Asia/Seoul", "bday": false }
+				},
+				"hasOfficialMark": true,
+				"profileSpaceStatus": "ACCESSIBLE",
+				"myProfile": false
+			},
+			"root": {
+				"type": "POST",
+				"data": {
+					"shareUrl": "https://weverse.io/seventeen/artist/3-112571891?hl=ko",
+					"locked": false,
+					"body": "hey 위버스 리더 응답하라 오바",
+					"postId": "3-112571891",
+					"postType": "NORMAL",
+					"sectionType": "ARTIST",
+					"punishStatuses": [],
+					"membershipOnly": false,
+					"plainBody": "hey 위버스 리더 응답하라 오바",
+					"availableActions": ["READ_POST", "WRITE_EMOTION", "WRITE_COMMENT", "BOOKMARK"],
+					"author": {
+						"memberId": "38259d6084565f008c7ebca19db8f98e",
+						"communityId": 4,
+						"joined": true,
+						"profileName": "호시",
+						"profileImageUrl": "https://weverse-phinf.pstatic.net/MjAyMzAxMzBfMjI0/MDAxNjc1MDYwODQwMDE2.021kw8jGnWSDHeHOODdAtZEidbselX_ZYMBs3Vu9LEsg.OVmEHiP9LecqGDIoOILJuUb63ulgO1BBthpPp8BQ5sIg.JPEG/16a06b08-54f7-4dc7-be2a-6673cbc1ffe6.jpeg",
+						"memberJoinStatus": "JOIN_COMMUNITY",
+						"profileType": "ARTIST",
+						"artistOfficialProfile": {
+							"officialImageUrl": "https://weverse-phinf.pstatic.net/MjAyMzAxMzBfMTMg/MDAxNjc1MDYwODM0NDU0.GApAo0ZReKgbnGLixqXwcACLvn4Z1_UymTO5QbwKk94g.Yg8AzspGAnez9QI_bfg9-wmnCmxzzBfUeUooEC277WUg.JPEG/5a989933-1dc6-403e-a79c-cf02b41c013f.jpeg",
+							"officialName": "호시",
+							"birthday": { "date": 834796800000, "timezone": "Asia/Seoul", "bday": false }
+						},
+						"hasOfficialMark": true,
+						"profileSpaceStatus": "ACCESSIBLE",
+						"myProfile": false
+					}
+				}
+			},
+			"lastModifierMember": {
+				"memberId": "8154c97c850167455f477945794e837f",
+				"profileName": "원우",
+				"profileImageUrl": "https://weverse-phinf.pstatic.net/MjAyMjA3MTFfMjU0/MDAxNjU3NTAyNDY1NDQw.EXuLjfkSwF3CMfAgI4XK2HMQmTFGJRCd1V34YPWP-jcg.G7MserHFrMit4Dd34G6386xMNH2JX4zDXSON4EBmdeYg.PNG/ed44c6dc5d22476db6bebb43ba90a680147.png",
+				"profileType": "ARTIST",
+				"hasOfficialMark": true
+			}
+		},
+		{
+			"commentId": "3-194863721",
+			"body": "므찌다.",
+			"createdAt": 1675409354478,
+			"emotionCount": 35399,
+			"commentCount": 1325,
+			"availableActions": ["WRITE_EMOTION", "READ_COMMENT", "WRITE_COMMENT"],
+			"writtenIn": "ko",
+			"parent": {
+				"type": "POST",
+				"data": {
+					"body": "hey 위버스 리더 응답하라 오바",
+					"postId": "3-112571891",
+					"postType": "NORMAL",
+					"punishStatuses": [],
+					"plainBody": "hey 위버스 리더 응답하라 오바",
+					"author": {
+						"memberId": "38259d6084565f008c7ebca19db8f98e",
+						"profileName": "호시",
+						"profileImageUrl": "https://weverse-phinf.pstatic.net/MjAyMzAxMzBfMjI0/MDAxNjc1MDYwODQwMDE2.021kw8jGnWSDHeHOODdAtZEidbselX_ZYMBs3Vu9LEsg.OVmEHiP9LecqGDIoOILJuUb63ulgO1BBthpPp8BQ5sIg.JPEG/16a06b08-54f7-4dc7-be2a-6673cbc1ffe6.jpeg",
+						"profileType": "ARTIST",
+						"hasOfficialMark": true
+					}
+				}
+			},
+			"author": {
+				"memberId": "8154c97c850167455f477945794e837f",
+				"communityId": 4,
+				"joined": true,
+				"profileName": "원우",
+				"profileImageUrl": "https://weverse-phinf.pstatic.net/MjAyMjA3MTFfMjU0/MDAxNjU3NTAyNDY1NDQw.EXuLjfkSwF3CMfAgI4XK2HMQmTFGJRCd1V34YPWP-jcg.G7MserHFrMit4Dd34G6386xMNH2JX4zDXSON4EBmdeYg.PNG/ed44c6dc5d22476db6bebb43ba90a680147.png",
+				"memberJoinStatus": "JOIN_COMMUNITY",
+				"profileType": "ARTIST",
+				"artistOfficialProfile": {
+					"officialImageUrl": "https://weverse-phinf.pstatic.net/MjAyMjA3MTFfMjMz/MDAxNjU3NTAyNDAxMTIz.aFz-YFSxvVLKzWPxWnHquotJRE7jQrt_d1SJI4-8HUQg.lO131Do43_DyF6dtMGop8QNmZUwJxVaf1Tv-xlwkQCAg.PNG/317ed5f07114416b9c8cd69921efb902829.png",
+					"officialName": "원우",
+					"birthday": { "date": 837561600000, "timezone": "Asia/Seoul", "bday": false }
+				},
+				"hasOfficialMark": true,
+				"profileSpaceStatus": "ACCESSIBLE",
+				"myProfile": false
+			},
+			"root": {
+				"type": "POST",
+				"data": {
+					"shareUrl": "https://weverse.io/seventeen/artist/3-112571891?hl=ko",
+					"locked": false,
+					"body": "hey 위버스 리더 응답하라 오바",
+					"postId": "3-112571891",
+					"postType": "NORMAL",
+					"sectionType": "ARTIST",
+					"punishStatuses": [],
+					"membershipOnly": false,
+					"plainBody": "hey 위버스 리더 응답하라 오바",
+					"availableActions": ["READ_POST", "WRITE_EMOTION", "WRITE_COMMENT", "BOOKMARK"],
+					"author": {
+						"memberId": "38259d6084565f008c7ebca19db8f98e",
+						"communityId": 4,
+						"joined": true,
+						"profileName": "호시",
+						"profileImageUrl": "https://weverse-phinf.pstatic.net/MjAyMzAxMzBfMjI0/MDAxNjc1MDYwODQwMDE2.021kw8jGnWSDHeHOODdAtZEidbselX_ZYMBs3Vu9LEsg.OVmEHiP9LecqGDIoOILJuUb63ulgO1BBthpPp8BQ5sIg.JPEG/16a06b08-54f7-4dc7-be2a-6673cbc1ffe6.jpeg",
+						"memberJoinStatus": "JOIN_COMMUNITY",
+						"profileType": "ARTIST",
+						"artistOfficialProfile": {
+							"officialImageUrl": "https://weverse-phinf.pstatic.net/MjAyMzAxMzBfMTMg/MDAxNjc1MDYwODM0NDU0.GApAo0ZReKgbnGLixqXwcACLvn4Z1_UymTO5QbwKk94g.Yg8AzspGAnez9QI_bfg9-wmnCmxzzBfUeUooEC277WUg.JPEG/5a989933-1dc6-403e-a79c-cf02b41c013f.jpeg",
+							"officialName": "호시",
+							"birthday": { "date": 834796800000, "timezone": "Asia/Seoul", "bday": false }
+						},
+						"hasOfficialMark": true,
+						"profileSpaceStatus": "ACCESSIBLE",
+						"myProfile": false
+					}
+				}
+			},
+			"lastModifierMember": {
+				"memberId": "8154c97c850167455f477945794e837f",
+				"profileName": "원우",
+				"profileImageUrl": "https://weverse-phinf.pstatic.net/MjAyMjA3MTFfMjU0/MDAxNjU3NTAyNDY1NDQw.EXuLjfkSwF3CMfAgI4XK2HMQmTFGJRCd1V34YPWP-jcg.G7MserHFrMit4Dd34G6386xMNH2JX4zDXSON4EBmdeYg.PNG/ed44c6dc5d22476db6bebb43ba90a680147.png",
+				"profileType": "ARTIST",
+				"hasOfficialMark": true
+			}
+		},
+		{
+			"commentId": "4-194855980",
+			"body": "요즘 열일하는게 보기 좋다 호시야.\uD83D\uDC4D",
+			"createdAt": 1675409319776,
+			"emotionCount": 37478,
+			"commentCount": 1232,
+			"availableActions": ["WRITE_EMOTION", "READ_COMMENT", "WRITE_COMMENT"],
+			"writtenIn": "ko",
+			"parent": {
+				"type": "POST",
+				"data": {
+					"body": "hey 위버스 리더 응답하라 오바",
+					"postId": "3-112571891",
+					"postType": "NORMAL",
+					"punishStatuses": [],
+					"plainBody": "hey 위버스 리더 응답하라 오바",
+					"author": {
+						"memberId": "38259d6084565f008c7ebca19db8f98e",
+						"profileName": "호시",
+						"profileImageUrl": "https://weverse-phinf.pstatic.net/MjAyMzAxMzBfMjI0/MDAxNjc1MDYwODQwMDE2.021kw8jGnWSDHeHOODdAtZEidbselX_ZYMBs3Vu9LEsg.OVmEHiP9LecqGDIoOILJuUb63ulgO1BBthpPp8BQ5sIg.JPEG/16a06b08-54f7-4dc7-be2a-6673cbc1ffe6.jpeg",
+						"profileType": "ARTIST",
+						"hasOfficialMark": true
+					}
+				}
+			},
+			"author": {
+				"memberId": "8154c97c850167455f477945794e837f",
+				"communityId": 4,
+				"joined": true,
+				"profileName": "원우",
+				"profileImageUrl": "https://weverse-phinf.pstatic.net/MjAyMjA3MTFfMjU0/MDAxNjU3NTAyNDY1NDQw.EXuLjfkSwF3CMfAgI4XK2HMQmTFGJRCd1V34YPWP-jcg.G7MserHFrMit4Dd34G6386xMNH2JX4zDXSON4EBmdeYg.PNG/ed44c6dc5d22476db6bebb43ba90a680147.png",
+				"memberJoinStatus": "JOIN_COMMUNITY",
+				"profileType": "ARTIST",
+				"artistOfficialProfile": {
+					"officialImageUrl": "https://weverse-phinf.pstatic.net/MjAyMjA3MTFfMjMz/MDAxNjU3NTAyNDAxMTIz.aFz-YFSxvVLKzWPxWnHquotJRE7jQrt_d1SJI4-8HUQg.lO131Do43_DyF6dtMGop8QNmZUwJxVaf1Tv-xlwkQCAg.PNG/317ed5f07114416b9c8cd69921efb902829.png",
+					"officialName": "원우",
+					"birthday": { "date": 837561600000, "timezone": "Asia/Seoul", "bday": false }
+				},
+				"hasOfficialMark": true,
+				"profileSpaceStatus": "ACCESSIBLE",
+				"myProfile": false
+			},
+			"root": {
+				"type": "POST",
+				"data": {
+					"shareUrl": "https://weverse.io/seventeen/artist/3-112571891?hl=ko",
+					"locked": false,
+					"body": "hey 위버스 리더 응답하라 오바",
+					"postId": "3-112571891",
+					"postType": "NORMAL",
+					"sectionType": "ARTIST",
+					"punishStatuses": [],
+					"membershipOnly": false,
+					"plainBody": "hey 위버스 리더 응답하라 오바",
+					"availableActions": ["READ_POST", "WRITE_EMOTION", "WRITE_COMMENT", "BOOKMARK"],
+					"author": {
+						"memberId": "38259d6084565f008c7ebca19db8f98e",
+						"communityId": 4,
+						"joined": true,
+						"profileName": "호시",
+						"profileImageUrl": "https://weverse-phinf.pstatic.net/MjAyMzAxMzBfMjI0/MDAxNjc1MDYwODQwMDE2.021kw8jGnWSDHeHOODdAtZEidbselX_ZYMBs3Vu9LEsg.OVmEHiP9LecqGDIoOILJuUb63ulgO1BBthpPp8BQ5sIg.JPEG/16a06b08-54f7-4dc7-be2a-6673cbc1ffe6.jpeg",
+						"memberJoinStatus": "JOIN_COMMUNITY",
+						"profileType": "ARTIST",
+						"artistOfficialProfile": {
+							"officialImageUrl": "https://weverse-phinf.pstatic.net/MjAyMzAxMzBfMTMg/MDAxNjc1MDYwODM0NDU0.GApAo0ZReKgbnGLixqXwcACLvn4Z1_UymTO5QbwKk94g.Yg8AzspGAnez9QI_bfg9-wmnCmxzzBfUeUooEC277WUg.JPEG/5a989933-1dc6-403e-a79c-cf02b41c013f.jpeg",
+							"officialName": "호시",
+							"birthday": { "date": 834796800000, "timezone": "Asia/Seoul", "bday": false }
+						},
+						"hasOfficialMark": true,
+						"profileSpaceStatus": "ACCESSIBLE",
+						"myProfile": false
+					}
+				}
+			},
+			"lastModifierMember": {
+				"memberId": "8154c97c850167455f477945794e837f",
+				"profileName": "원우",
+				"profileImageUrl": "https://weverse-phinf.pstatic.net/MjAyMjA3MTFfMjU0/MDAxNjU3NTAyNDY1NDQw.EXuLjfkSwF3CMfAgI4XK2HMQmTFGJRCd1V34YPWP-jcg.G7MserHFrMit4Dd34G6386xMNH2JX4zDXSON4EBmdeYg.PNG/ed44c6dc5d22476db6bebb43ba90a680147.png",
+				"profileType": "ARTIST",
+				"hasOfficialMark": true
+			}
+		},
+		{
+			"commentId": "2-225086314",
+			"body": "❤️",
+			"createdAt": 1675409265402,
+			"emotionCount": 33013,
+			"commentCount": 0,
+			"availableActions": ["WRITE_EMOTION", "READ_COMMENT", "WRITE_COMMENT"],
+			"parent": {
+				"type": "COMMENT",
+				"data": {
+					"commentId": "3-194861823",
+					"body": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+					"createdAt": 1675409240875,
+					"author": {
+						"memberId": "8154c97c850167455f477945794e837f",
+						"profileName": "원우",
+						"profileImageUrl": "https://weverse-phinf.pstatic.net/MjAyMjA3MTFfMjU0/MDAxNjU3NTAyNDY1NDQw.EXuLjfkSwF3CMfAgI4XK2HMQmTFGJRCd1V34YPWP-jcg.G7MserHFrMit4Dd34G6386xMNH2JX4zDXSON4EBmdeYg.PNG/ed44c6dc5d22476db6bebb43ba90a680147.png",
+						"profileType": "ARTIST",
+						"hasOfficialMark": true
+					}
+				}
+			},
+			"author": {
+				"memberId": "38259d6084565f008c7ebca19db8f98e",
+				"communityId": 4,
+				"joined": true,
+				"profileName": "호시",
+				"profileImageUrl": "https://weverse-phinf.pstatic.net/MjAyMzAxMzBfMjI0/MDAxNjc1MDYwODQwMDE2.021kw8jGnWSDHeHOODdAtZEidbselX_ZYMBs3Vu9LEsg.OVmEHiP9LecqGDIoOILJuUb63ulgO1BBthpPp8BQ5sIg.JPEG/16a06b08-54f7-4dc7-be2a-6673cbc1ffe6.jpeg",
+				"memberJoinStatus": "JOIN_COMMUNITY",
+				"profileType": "ARTIST",
+				"artistOfficialProfile": {
+					"officialImageUrl": "https://weverse-phinf.pstatic.net/MjAyMzAxMzBfMTMg/MDAxNjc1MDYwODM0NDU0.GApAo0ZReKgbnGLixqXwcACLvn4Z1_UymTO5QbwKk94g.Yg8AzspGAnez9QI_bfg9-wmnCmxzzBfUeUooEC277WUg.JPEG/5a989933-1dc6-403e-a79c-cf02b41c013f.jpeg",
+					"officialName": "호시",
+					"birthday": { "date": 834796800000, "timezone": "Asia/Seoul", "bday": false }
+				},
+				"hasOfficialMark": true,
+				"profileSpaceStatus": "ACCESSIBLE",
+				"myProfile": false
+			},
+			"root": {
+				"type": "POST",
+				"data": {
+					"shareUrl": "https://weverse.io/seventeen/artist/3-112571891?hl=ko",
+					"locked": false,
+					"body": "hey 위버스 리더 응답하라 오바",
+					"postId": "3-112571891",
+					"postType": "NORMAL",
+					"sectionType": "ARTIST",
+					"punishStatuses": [],
+					"membershipOnly": false,
+					"plainBody": "hey 위버스 리더 응답하라 오바",
+					"availableActions": ["READ_POST", "WRITE_EMOTION", "WRITE_COMMENT", "BOOKMARK"],
+					"author": {
+						"memberId": "38259d6084565f008c7ebca19db8f98e",
+						"communityId": 4,
+						"joined": true,
+						"profileName": "호시",
+						"profileImageUrl": "https://weverse-phinf.pstatic.net/MjAyMzAxMzBfMjI0/MDAxNjc1MDYwODQwMDE2.021kw8jGnWSDHeHOODdAtZEidbselX_ZYMBs3Vu9LEsg.OVmEHiP9LecqGDIoOILJuUb63ulgO1BBthpPp8BQ5sIg.JPEG/16a06b08-54f7-4dc7-be2a-6673cbc1ffe6.jpeg",
+						"memberJoinStatus": "JOIN_COMMUNITY",
+						"profileType": "ARTIST",
+						"artistOfficialProfile": {
+							"officialImageUrl": "https://weverse-phinf.pstatic.net/MjAyMzAxMzBfMTMg/MDAxNjc1MDYwODM0NDU0.GApAo0ZReKgbnGLixqXwcACLvn4Z1_UymTO5QbwKk94g.Yg8AzspGAnez9QI_bfg9-wmnCmxzzBfUeUooEC277WUg.JPEG/5a989933-1dc6-403e-a79c-cf02b41c013f.jpeg",
+							"officialName": "호시",
+							"birthday": { "date": 834796800000, "timezone": "Asia/Seoul", "bday": false }
+						},
+						"hasOfficialMark": true,
+						"profileSpaceStatus": "ACCESSIBLE",
+						"myProfile": false
+					}
+				}
+			},
+			"lastModifierMember": {
+				"memberId": "38259d6084565f008c7ebca19db8f98e",
+				"profileName": "호시",
+				"profileImageUrl": "https://weverse-phinf.pstatic.net/MjAyMzAxMzBfMjI0/MDAxNjc1MDYwODQwMDE2.021kw8jGnWSDHeHOODdAtZEidbselX_ZYMBs3Vu9LEsg.OVmEHiP9LecqGDIoOILJuUb63ulgO1BBthpPp8BQ5sIg.JPEG/16a06b08-54f7-4dc7-be2a-6673cbc1ffe6.jpeg",
+				"profileType": "ARTIST",
+				"hasOfficialMark": true
+			}
+		},
+		{
+			"commentId": "0-225115240",
+			"body": "벌써?",
+			"createdAt": 1675409245640,
+			"emotionCount": 33690,
+			"commentCount": 0,
+			"availableActions": ["WRITE_EMOTION", "READ_COMMENT", "WRITE_COMMENT"],
+			"writtenIn": "ko",
+			"parent": {
+				"type": "COMMENT",
+				"data": {
+					"commentId": "4-194854486",
+					"body": "응답했으니 퇴장.\uD83D\uDC4B",
+					"createdAt": 1675409233727,
+					"author": {
+						"memberId": "8154c97c850167455f477945794e837f",
+						"profileName": "원우",
+						"profileImageUrl": "https://weverse-phinf.pstatic.net/MjAyMjA3MTFfMjU0/MDAxNjU3NTAyNDY1NDQw.EXuLjfkSwF3CMfAgI4XK2HMQmTFGJRCd1V34YPWP-jcg.G7MserHFrMit4Dd34G6386xMNH2JX4zDXSON4EBmdeYg.PNG/ed44c6dc5d22476db6bebb43ba90a680147.png",
+						"profileType": "ARTIST",
+						"hasOfficialMark": true
+					}
+				}
+			},
+			"author": {
+				"memberId": "38259d6084565f008c7ebca19db8f98e",
+				"communityId": 4,
+				"joined": true,
+				"profileName": "호시",
+				"profileImageUrl": "https://weverse-phinf.pstatic.net/MjAyMzAxMzBfMjI0/MDAxNjc1MDYwODQwMDE2.021kw8jGnWSDHeHOODdAtZEidbselX_ZYMBs3Vu9LEsg.OVmEHiP9LecqGDIoOILJuUb63ulgO1BBthpPp8BQ5sIg.JPEG/16a06b08-54f7-4dc7-be2a-6673cbc1ffe6.jpeg",
+				"memberJoinStatus": "JOIN_COMMUNITY",
+				"profileType": "ARTIST",
+				"artistOfficialProfile": {
+					"officialImageUrl": "https://weverse-phinf.pstatic.net/MjAyMzAxMzBfMTMg/MDAxNjc1MDYwODM0NDU0.GApAo0ZReKgbnGLixqXwcACLvn4Z1_UymTO5QbwKk94g.Yg8AzspGAnez9QI_bfg9-wmnCmxzzBfUeUooEC277WUg.JPEG/5a989933-1dc6-403e-a79c-cf02b41c013f.jpeg",
+					"officialName": "호시",
+					"birthday": { "date": 834796800000, "timezone": "Asia/Seoul", "bday": false }
+				},
+				"hasOfficialMark": true,
+				"profileSpaceStatus": "ACCESSIBLE",
+				"myProfile": false
+			},
+			"root": {
+				"type": "POST",
+				"data": {
+					"shareUrl": "https://weverse.io/seventeen/artist/3-112571891?hl=ko",
+					"locked": false,
+					"body": "hey 위버스 리더 응답하라 오바",
+					"postId": "3-112571891",
+					"postType": "NORMAL",
+					"sectionType": "ARTIST",
+					"punishStatuses": [],
+					"membershipOnly": false,
+					"plainBody": "hey 위버스 리더 응답하라 오바",
+					"availableActions": ["READ_POST", "WRITE_EMOTION", "WRITE_COMMENT", "BOOKMARK"],
+					"author": {
+						"memberId": "38259d6084565f008c7ebca19db8f98e",
+						"communityId": 4,
+						"joined": true,
+						"profileName": "호시",
+						"profileImageUrl": "https://weverse-phinf.pstatic.net/MjAyMzAxMzBfMjI0/MDAxNjc1MDYwODQwMDE2.021kw8jGnWSDHeHOODdAtZEidbselX_ZYMBs3Vu9LEsg.OVmEHiP9LecqGDIoOILJuUb63ulgO1BBthpPp8BQ5sIg.JPEG/16a06b08-54f7-4dc7-be2a-6673cbc1ffe6.jpeg",
+						"memberJoinStatus": "JOIN_COMMUNITY",
+						"profileType": "ARTIST",
+						"artistOfficialProfile": {
+							"officialImageUrl": "https://weverse-phinf.pstatic.net/MjAyMzAxMzBfMTMg/MDAxNjc1MDYwODM0NDU0.GApAo0ZReKgbnGLixqXwcACLvn4Z1_UymTO5QbwKk94g.Yg8AzspGAnez9QI_bfg9-wmnCmxzzBfUeUooEC277WUg.JPEG/5a989933-1dc6-403e-a79c-cf02b41c013f.jpeg",
+							"officialName": "호시",
+							"birthday": { "date": 834796800000, "timezone": "Asia/Seoul", "bday": false }
+						},
+						"hasOfficialMark": true,
+						"profileSpaceStatus": "ACCESSIBLE",
+						"myProfile": false
+					}
+				}
+			},
+			"lastModifierMember": {
+				"memberId": "38259d6084565f008c7ebca19db8f98e",
+				"profileName": "호시",
+				"profileImageUrl": "https://weverse-phinf.pstatic.net/MjAyMzAxMzBfMjI0/MDAxNjc1MDYwODQwMDE2.021kw8jGnWSDHeHOODdAtZEidbselX_ZYMBs3Vu9LEsg.OVmEHiP9LecqGDIoOILJuUb63ulgO1BBthpPp8BQ5sIg.JPEG/16a06b08-54f7-4dc7-be2a-6673cbc1ffe6.jpeg",
+				"profileType": "ARTIST",
+				"hasOfficialMark": true
+			}
+		},
+		{
+			"commentId": "3-194861823",
+			"body": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+			"createdAt": 1675409240875,
+			"emotionCount": 34341,
+			"commentCount": 678,
+			"availableActions": ["WRITE_EMOTION", "READ_COMMENT", "WRITE_COMMENT"],
+			"parent": {
+				"type": "POST",
+				"data": {
+					"body": "hey 위버스 리더 응답하라 오바",
+					"postId": "3-112571891",
+					"postType": "NORMAL",
+					"punishStatuses": [],
+					"plainBody": "hey 위버스 리더 응답하라 오바",
+					"author": {
+						"memberId": "38259d6084565f008c7ebca19db8f98e",
+						"profileName": "호시",
+						"profileImageUrl": "https://weverse-phinf.pstatic.net/MjAyMzAxMzBfMjI0/MDAxNjc1MDYwODQwMDE2.021kw8jGnWSDHeHOODdAtZEidbselX_ZYMBs3Vu9LEsg.OVmEHiP9LecqGDIoOILJuUb63ulgO1BBthpPp8BQ5sIg.JPEG/16a06b08-54f7-4dc7-be2a-6673cbc1ffe6.jpeg",
+						"profileType": "ARTIST",
+						"hasOfficialMark": true
+					}
+				}
+			},
+			"author": {
+				"memberId": "8154c97c850167455f477945794e837f",
+				"communityId": 4,
+				"joined": true,
+				"profileName": "원우",
+				"profileImageUrl": "https://weverse-phinf.pstatic.net/MjAyMjA3MTFfMjU0/MDAxNjU3NTAyNDY1NDQw.EXuLjfkSwF3CMfAgI4XK2HMQmTFGJRCd1V34YPWP-jcg.G7MserHFrMit4Dd34G6386xMNH2JX4zDXSON4EBmdeYg.PNG/ed44c6dc5d22476db6bebb43ba90a680147.png",
+				"memberJoinStatus": "JOIN_COMMUNITY",
+				"profileType": "ARTIST",
+				"artistOfficialProfile": {
+					"officialImageUrl": "https://weverse-phinf.pstatic.net/MjAyMjA3MTFfMjMz/MDAxNjU3NTAyNDAxMTIz.aFz-YFSxvVLKzWPxWnHquotJRE7jQrt_d1SJI4-8HUQg.lO131Do43_DyF6dtMGop8QNmZUwJxVaf1Tv-xlwkQCAg.PNG/317ed5f07114416b9c8cd69921efb902829.png",
+					"officialName": "원우",
+					"birthday": { "date": 837561600000, "timezone": "Asia/Seoul", "bday": false }
+				},
+				"hasOfficialMark": true,
+				"profileSpaceStatus": "ACCESSIBLE",
+				"myProfile": false
+			},
+			"root": {
+				"type": "POST",
+				"data": {
+					"shareUrl": "https://weverse.io/seventeen/artist/3-112571891?hl=ko",
+					"locked": false,
+					"body": "hey 위버스 리더 응답하라 오바",
+					"postId": "3-112571891",
+					"postType": "NORMAL",
+					"sectionType": "ARTIST",
+					"punishStatuses": [],
+					"membershipOnly": false,
+					"plainBody": "hey 위버스 리더 응답하라 오바",
+					"availableActions": ["READ_POST", "WRITE_EMOTION", "WRITE_COMMENT", "BOOKMARK"],
+					"author": {
+						"memberId": "38259d6084565f008c7ebca19db8f98e",
+						"communityId": 4,
+						"joined": true,
+						"profileName": "호시",
+						"profileImageUrl": "https://weverse-phinf.pstatic.net/MjAyMzAxMzBfMjI0/MDAxNjc1MDYwODQwMDE2.021kw8jGnWSDHeHOODdAtZEidbselX_ZYMBs3Vu9LEsg.OVmEHiP9LecqGDIoOILJuUb63ulgO1BBthpPp8BQ5sIg.JPEG/16a06b08-54f7-4dc7-be2a-6673cbc1ffe6.jpeg",
+						"memberJoinStatus": "JOIN_COMMUNITY",
+						"profileType": "ARTIST",
+						"artistOfficialProfile": {
+							"officialImageUrl": "https://weverse-phinf.pstatic.net/MjAyMzAxMzBfMTMg/MDAxNjc1MDYwODM0NDU0.GApAo0ZReKgbnGLixqXwcACLvn4Z1_UymTO5QbwKk94g.Yg8AzspGAnez9QI_bfg9-wmnCmxzzBfUeUooEC277WUg.JPEG/5a989933-1dc6-403e-a79c-cf02b41c013f.jpeg",
+							"officialName": "호시",
+							"birthday": { "date": 834796800000, "timezone": "Asia/Seoul", "bday": false }
+						},
+						"hasOfficialMark": true,
+						"profileSpaceStatus": "ACCESSIBLE",
+						"myProfile": false
+					}
+				}
+			},
+			"lastModifierMember": {
+				"memberId": "8154c97c850167455f477945794e837f",
+				"profileName": "원우",
+				"profileImageUrl": "https://weverse-phinf.pstatic.net/MjAyMjA3MTFfMjU0/MDAxNjU3NTAyNDY1NDQw.EXuLjfkSwF3CMfAgI4XK2HMQmTFGJRCd1V34YPWP-jcg.G7MserHFrMit4Dd34G6386xMNH2JX4zDXSON4EBmdeYg.PNG/ed44c6dc5d22476db6bebb43ba90a680147.png",
+				"profileType": "ARTIST",
+				"hasOfficialMark": true
+			}
+		},
+		{
+			"commentId": "4-194854486",
+			"body": "응답했으니 퇴장.\uD83D\uDC4B",
+			"createdAt": 1675409233727,
+			"emotionCount": 36048,
+			"commentCount": 960,
+			"availableActions": ["WRITE_EMOTION", "READ_COMMENT", "WRITE_COMMENT"],
+			"writtenIn": "ko",
+			"parent": {
+				"type": "POST",
+				"data": {
+					"body": "hey 위버스 리더 응답하라 오바",
+					"postId": "3-112571891",
+					"postType": "NORMAL",
+					"punishStatuses": [],
+					"plainBody": "hey 위버스 리더 응답하라 오바",
+					"author": {
+						"memberId": "38259d6084565f008c7ebca19db8f98e",
+						"profileName": "호시",
+						"profileImageUrl": "https://weverse-phinf.pstatic.net/MjAyMzAxMzBfMjI0/MDAxNjc1MDYwODQwMDE2.021kw8jGnWSDHeHOODdAtZEidbselX_ZYMBs3Vu9LEsg.OVmEHiP9LecqGDIoOILJuUb63ulgO1BBthpPp8BQ5sIg.JPEG/16a06b08-54f7-4dc7-be2a-6673cbc1ffe6.jpeg",
+						"profileType": "ARTIST",
+						"hasOfficialMark": true
+					}
+				}
+			},
+			"author": {
+				"memberId": "8154c97c850167455f477945794e837f",
+				"communityId": 4,
+				"joined": true,
+				"profileName": "원우",
+				"profileImageUrl": "https://weverse-phinf.pstatic.net/MjAyMjA3MTFfMjU0/MDAxNjU3NTAyNDY1NDQw.EXuLjfkSwF3CMfAgI4XK2HMQmTFGJRCd1V34YPWP-jcg.G7MserHFrMit4Dd34G6386xMNH2JX4zDXSON4EBmdeYg.PNG/ed44c6dc5d22476db6bebb43ba90a680147.png",
+				"memberJoinStatus": "JOIN_COMMUNITY",
+				"profileType": "ARTIST",
+				"artistOfficialProfile": {
+					"officialImageUrl": "https://weverse-phinf.pstatic.net/MjAyMjA3MTFfMjMz/MDAxNjU3NTAyNDAxMTIz.aFz-YFSxvVLKzWPxWnHquotJRE7jQrt_d1SJI4-8HUQg.lO131Do43_DyF6dtMGop8QNmZUwJxVaf1Tv-xlwkQCAg.PNG/317ed5f07114416b9c8cd69921efb902829.png",
+					"officialName": "원우",
+					"birthday": { "date": 837561600000, "timezone": "Asia/Seoul", "bday": false }
+				},
+				"hasOfficialMark": true,
+				"profileSpaceStatus": "ACCESSIBLE",
+				"myProfile": false
+			},
+			"root": {
+				"type": "POST",
+				"data": {
+					"shareUrl": "https://weverse.io/seventeen/artist/3-112571891?hl=ko",
+					"locked": false,
+					"body": "hey 위버스 리더 응답하라 오바",
+					"postId": "3-112571891",
+					"postType": "NORMAL",
+					"sectionType": "ARTIST",
+					"punishStatuses": [],
+					"membershipOnly": false,
+					"plainBody": "hey 위버스 리더 응답하라 오바",
+					"availableActions": ["READ_POST", "WRITE_EMOTION", "WRITE_COMMENT", "BOOKMARK"],
+					"author": {
+						"memberId": "38259d6084565f008c7ebca19db8f98e",
+						"communityId": 4,
+						"joined": true,
+						"profileName": "호시",
+						"profileImageUrl": "https://weverse-phinf.pstatic.net/MjAyMzAxMzBfMjI0/MDAxNjc1MDYwODQwMDE2.021kw8jGnWSDHeHOODdAtZEidbselX_ZYMBs3Vu9LEsg.OVmEHiP9LecqGDIoOILJuUb63ulgO1BBthpPp8BQ5sIg.JPEG/16a06b08-54f7-4dc7-be2a-6673cbc1ffe6.jpeg",
+						"memberJoinStatus": "JOIN_COMMUNITY",
+						"profileType": "ARTIST",
+						"artistOfficialProfile": {
+							"officialImageUrl": "https://weverse-phinf.pstatic.net/MjAyMzAxMzBfMTMg/MDAxNjc1MDYwODM0NDU0.GApAo0ZReKgbnGLixqXwcACLvn4Z1_UymTO5QbwKk94g.Yg8AzspGAnez9QI_bfg9-wmnCmxzzBfUeUooEC277WUg.JPEG/5a989933-1dc6-403e-a79c-cf02b41c013f.jpeg",
+							"officialName": "호시",
+							"birthday": { "date": 834796800000, "timezone": "Asia/Seoul", "bday": false }
+						},
+						"hasOfficialMark": true,
+						"profileSpaceStatus": "ACCESSIBLE",
+						"myProfile": false
+					}
+				}
+			},
+			"lastModifierMember": {
+				"memberId": "8154c97c850167455f477945794e837f",
+				"profileName": "원우",
+				"profileImageUrl": "https://weverse-phinf.pstatic.net/MjAyMjA3MTFfMjU0/MDAxNjU3NTAyNDY1NDQw.EXuLjfkSwF3CMfAgI4XK2HMQmTFGJRCd1V34YPWP-jcg.G7MserHFrMit4Dd34G6386xMNH2JX4zDXSON4EBmdeYg.PNG/ed44c6dc5d22476db6bebb43ba90a680147.png",
+				"profileType": "ARTIST",
+				"hasOfficialMark": true
+			}
+		},
+		{
+			"commentId": "1-225105765",
+			"body": "그렇지 ㅋㅋㅋ",
+			"createdAt": 1675409232246,
+			"emotionCount": 33946,
+			"commentCount": 0,
+			"availableActions": ["WRITE_EMOTION", "READ_COMMENT", "WRITE_COMMENT"],
+			"writtenIn": "ko",
+			"parent": {
+				"type": "COMMENT",
+				"data": {
+					"commentId": "4-194853824",
+					"body": "난가?",
+					"createdAt": 1675409140069,
+					"author": {
+						"memberId": "8154c97c850167455f477945794e837f",
+						"profileName": "원우",
+						"profileImageUrl": "https://weverse-phinf.pstatic.net/MjAyMjA3MTFfMjU0/MDAxNjU3NTAyNDY1NDQw.EXuLjfkSwF3CMfAgI4XK2HMQmTFGJRCd1V34YPWP-jcg.G7MserHFrMit4Dd34G6386xMNH2JX4zDXSON4EBmdeYg.PNG/ed44c6dc5d22476db6bebb43ba90a680147.png",
+						"profileType": "ARTIST",
+						"hasOfficialMark": true
+					}
+				}
+			},
+			"author": {
+				"memberId": "38259d6084565f008c7ebca19db8f98e",
+				"communityId": 4,
+				"joined": true,
+				"profileName": "호시",
+				"profileImageUrl": "https://weverse-phinf.pstatic.net/MjAyMzAxMzBfMjI0/MDAxNjc1MDYwODQwMDE2.021kw8jGnWSDHeHOODdAtZEidbselX_ZYMBs3Vu9LEsg.OVmEHiP9LecqGDIoOILJuUb63ulgO1BBthpPp8BQ5sIg.JPEG/16a06b08-54f7-4dc7-be2a-6673cbc1ffe6.jpeg",
+				"memberJoinStatus": "JOIN_COMMUNITY",
+				"profileType": "ARTIST",
+				"artistOfficialProfile": {
+					"officialImageUrl": "https://weverse-phinf.pstatic.net/MjAyMzAxMzBfMTMg/MDAxNjc1MDYwODM0NDU0.GApAo0ZReKgbnGLixqXwcACLvn4Z1_UymTO5QbwKk94g.Yg8AzspGAnez9QI_bfg9-wmnCmxzzBfUeUooEC277WUg.JPEG/5a989933-1dc6-403e-a79c-cf02b41c013f.jpeg",
+					"officialName": "호시",
+					"birthday": { "date": 834796800000, "timezone": "Asia/Seoul", "bday": false }
+				},
+				"hasOfficialMark": true,
+				"profileSpaceStatus": "ACCESSIBLE",
+				"myProfile": false
+			},
+			"root": {
+				"type": "POST",
+				"data": {
+					"shareUrl": "https://weverse.io/seventeen/artist/3-112571891?hl=ko",
+					"locked": false,
+					"body": "hey 위버스 리더 응답하라 오바",
+					"postId": "3-112571891",
+					"postType": "NORMAL",
+					"sectionType": "ARTIST",
+					"punishStatuses": [],
+					"membershipOnly": false,
+					"plainBody": "hey 위버스 리더 응답하라 오바",
+					"availableActions": ["READ_POST", "WRITE_EMOTION", "WRITE_COMMENT", "BOOKMARK"],
+					"author": {
+						"memberId": "38259d6084565f008c7ebca19db8f98e",
+						"communityId": 4,
+						"joined": true,
+						"profileName": "호시",
+						"profileImageUrl": "https://weverse-phinf.pstatic.net/MjAyMzAxMzBfMjI0/MDAxNjc1MDYwODQwMDE2.021kw8jGnWSDHeHOODdAtZEidbselX_ZYMBs3Vu9LEsg.OVmEHiP9LecqGDIoOILJuUb63ulgO1BBthpPp8BQ5sIg.JPEG/16a06b08-54f7-4dc7-be2a-6673cbc1ffe6.jpeg",
+						"memberJoinStatus": "JOIN_COMMUNITY",
+						"profileType": "ARTIST",
+						"artistOfficialProfile": {
+							"officialImageUrl": "https://weverse-phinf.pstatic.net/MjAyMzAxMzBfMTMg/MDAxNjc1MDYwODM0NDU0.GApAo0ZReKgbnGLixqXwcACLvn4Z1_UymTO5QbwKk94g.Yg8AzspGAnez9QI_bfg9-wmnCmxzzBfUeUooEC277WUg.JPEG/5a989933-1dc6-403e-a79c-cf02b41c013f.jpeg",
+							"officialName": "호시",
+							"birthday": { "date": 834796800000, "timezone": "Asia/Seoul", "bday": false }
+						},
+						"hasOfficialMark": true,
+						"profileSpaceStatus": "ACCESSIBLE",
+						"myProfile": false
+					}
+				}
+			},
+			"lastModifierMember": {
+				"memberId": "38259d6084565f008c7ebca19db8f98e",
+				"profileName": "호시",
+				"profileImageUrl": "https://weverse-phinf.pstatic.net/MjAyMzAxMzBfMjI0/MDAxNjc1MDYwODQwMDE2.021kw8jGnWSDHeHOODdAtZEidbselX_ZYMBs3Vu9LEsg.OVmEHiP9LecqGDIoOILJuUb63ulgO1BBthpPp8BQ5sIg.JPEG/16a06b08-54f7-4dc7-be2a-6673cbc1ffe6.jpeg",
+				"profileType": "ARTIST",
+				"hasOfficialMark": true
+			}
+		},
+		{
+			"commentId": "4-194853824",
+			"body": "난가?",
+			"createdAt": 1675409140069,
+			"emotionCount": 39719,
+			"commentCount": 3031,
+			"availableActions": ["WRITE_EMOTION", "READ_COMMENT", "WRITE_COMMENT"],
+			"writtenIn": "ko",
+			"parent": {
+				"type": "POST",
+				"data": {
+					"body": "hey 위버스 리더 응답하라 오바",
+					"postId": "3-112571891",
+					"postType": "NORMAL",
+					"punishStatuses": [],
+					"plainBody": "hey 위버스 리더 응답하라 오바",
+					"author": {
+						"memberId": "38259d6084565f008c7ebca19db8f98e",
+						"profileName": "호시",
+						"profileImageUrl": "https://weverse-phinf.pstatic.net/MjAyMzAxMzBfMjI0/MDAxNjc1MDYwODQwMDE2.021kw8jGnWSDHeHOODdAtZEidbselX_ZYMBs3Vu9LEsg.OVmEHiP9LecqGDIoOILJuUb63ulgO1BBthpPp8BQ5sIg.JPEG/16a06b08-54f7-4dc7-be2a-6673cbc1ffe6.jpeg",
+						"profileType": "ARTIST",
+						"hasOfficialMark": true
+					}
+				}
+			},
+			"author": {
+				"memberId": "8154c97c850167455f477945794e837f",
+				"communityId": 4,
+				"joined": true,
+				"profileName": "원우",
+				"profileImageUrl": "https://weverse-phinf.pstatic.net/MjAyMjA3MTFfMjU0/MDAxNjU3NTAyNDY1NDQw.EXuLjfkSwF3CMfAgI4XK2HMQmTFGJRCd1V34YPWP-jcg.G7MserHFrMit4Dd34G6386xMNH2JX4zDXSON4EBmdeYg.PNG/ed44c6dc5d22476db6bebb43ba90a680147.png",
+				"memberJoinStatus": "JOIN_COMMUNITY",
+				"profileType": "ARTIST",
+				"artistOfficialProfile": {
+					"officialImageUrl": "https://weverse-phinf.pstatic.net/MjAyMjA3MTFfMjMz/MDAxNjU3NTAyNDAxMTIz.aFz-YFSxvVLKzWPxWnHquotJRE7jQrt_d1SJI4-8HUQg.lO131Do43_DyF6dtMGop8QNmZUwJxVaf1Tv-xlwkQCAg.PNG/317ed5f07114416b9c8cd69921efb902829.png",
+					"officialName": "원우",
+					"birthday": { "date": 837561600000, "timezone": "Asia/Seoul", "bday": false }
+				},
+				"hasOfficialMark": true,
+				"profileSpaceStatus": "ACCESSIBLE",
+				"myProfile": false
+			},
+			"root": {
+				"type": "POST",
+				"data": {
+					"shareUrl": "https://weverse.io/seventeen/artist/3-112571891?hl=ko",
+					"locked": false,
+					"body": "hey 위버스 리더 응답하라 오바",
+					"postId": "3-112571891",
+					"postType": "NORMAL",
+					"sectionType": "ARTIST",
+					"punishStatuses": [],
+					"membershipOnly": false,
+					"plainBody": "hey 위버스 리더 응답하라 오바",
+					"availableActions": ["READ_POST", "WRITE_EMOTION", "WRITE_COMMENT", "BOOKMARK"],
+					"author": {
+						"memberId": "38259d6084565f008c7ebca19db8f98e",
+						"communityId": 4,
+						"joined": true,
+						"profileName": "호시",
+						"profileImageUrl": "https://weverse-phinf.pstatic.net/MjAyMzAxMzBfMjI0/MDAxNjc1MDYwODQwMDE2.021kw8jGnWSDHeHOODdAtZEidbselX_ZYMBs3Vu9LEsg.OVmEHiP9LecqGDIoOILJuUb63ulgO1BBthpPp8BQ5sIg.JPEG/16a06b08-54f7-4dc7-be2a-6673cbc1ffe6.jpeg",
+						"memberJoinStatus": "JOIN_COMMUNITY",
+						"profileType": "ARTIST",
+						"artistOfficialProfile": {
+							"officialImageUrl": "https://weverse-phinf.pstatic.net/MjAyMzAxMzBfMTMg/MDAxNjc1MDYwODM0NDU0.GApAo0ZReKgbnGLixqXwcACLvn4Z1_UymTO5QbwKk94g.Yg8AzspGAnez9QI_bfg9-wmnCmxzzBfUeUooEC277WUg.JPEG/5a989933-1dc6-403e-a79c-cf02b41c013f.jpeg",
+							"officialName": "호시",
+							"birthday": { "date": 834796800000, "timezone": "Asia/Seoul", "bday": false }
+						},
+						"hasOfficialMark": true,
+						"profileSpaceStatus": "ACCESSIBLE",
+						"myProfile": false
+					}
+				}
+			},
+			"lastModifierMember": {
+				"memberId": "8154c97c850167455f477945794e837f",
+				"profileName": "원우",
+				"profileImageUrl": "https://weverse-phinf.pstatic.net/MjAyMjA3MTFfMjU0/MDAxNjU3NTAyNDY1NDQw.EXuLjfkSwF3CMfAgI4XK2HMQmTFGJRCd1V34YPWP-jcg.G7MserHFrMit4Dd34G6386xMNH2JX4zDXSON4EBmdeYg.PNG/ed44c6dc5d22476db6bebb43ba90a680147.png",
+				"profileType": "ARTIST",
+				"hasOfficialMark": true
+			}
+		}
+	]
+}
