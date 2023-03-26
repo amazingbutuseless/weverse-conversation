@@ -7,3 +7,5 @@ type Article = {
 	createdAt?: number;
 	parentId?: string;
 };
+
+export { Article };

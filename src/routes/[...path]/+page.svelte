@@ -4,6 +4,7 @@
 	import { writable } from 'svelte/store';
 
 	import SpeechBubble from '$lib/SpeechBubble.svelte';
+	import type { Article } from 'src/article';
 
 	export let data: PageServerData;
 
@@ -18,6 +19,10 @@
 	const animateId = writable(comments[0].id);
 	setContext('animateId', animateId);
 </script>
+
+<svelte:head>
+	<title>{root?.profileName}: {root?.body}</title>
+</svelte:head>
 
 <section>
 	{#if root}
