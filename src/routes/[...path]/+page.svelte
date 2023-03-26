@@ -1,11 +1,11 @@
 <script lang="ts">
 	import { setContext } from 'svelte';
-	import type { PageData } from './$types';
+	import type { PageServerData } from './$types';
 	import { writable } from 'svelte/store';
 
 	import SpeechBubble from '$lib/SpeechBubble.svelte';
 
-	export let data: PageData;
+	export let data: PageServerData;
 
 	const articles = data.artistComments;
 	const root = articles.find((article) => !article.parentId);
@@ -40,9 +40,15 @@
 <style>
 	section {
 		margin: 0 auto;
+		padding: 1.6rem;
 		max-width: 64rem;
 		min-width: 36rem;
+		box-sizing: border-box;
+	}
+
+	article {
 		font-size: 1.4rem;
+		line-height: 1.6;
 	}
 
 	header {
